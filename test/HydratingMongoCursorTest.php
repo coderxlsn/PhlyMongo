@@ -7,7 +7,7 @@
 namespace PhlyMongoTest;
 
 use PhlyMongo\HydratingMongoCursor;
-use Zend\Stdlib\Hydrator\ObjectProperty;
+use Zend\Hydrator\ObjectProperty;
 
 class HydratingMongoCursorTest extends AbstractTestCase
 {
