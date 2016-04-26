@@ -10,7 +10,7 @@ use Countable;
 use InvalidArgumentException;
 use Iterator;
 use MongoCursor;
-use Zend\Stdlib\Hydrator\HydratorInterface;
+use Zend\Hydrator\HydratorInterface;
 
 class HydratingMongoCursor implements Countable, Iterator
 {
