@@ -1,5 +1,5 @@
 {
-    "name": "phly/phly-mongo",
+    "name": "coderxlsn/phly-mongo",
     "description": "ZF2 Module providing services and paginators surrounding MongoDB",
     "type": "library",
     "keywords": [
